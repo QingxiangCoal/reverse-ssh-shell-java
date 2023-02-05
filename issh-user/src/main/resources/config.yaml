@@ -1,0 +1,4 @@
+user:
+  address: "127.0.0.1" #ip或域名
+  port: "222" #端口
+  username: "user" #用户名，用于聊天
